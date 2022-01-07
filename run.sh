@@ -1,0 +1,1 @@
+FLASK_APP=heroku_app/app.py flask run
